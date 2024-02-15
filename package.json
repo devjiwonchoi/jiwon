@@ -1,1 +1,5 @@
-{”name”: “jiwon”, “version”:”0.0.0”}
+{
+  "name": "jiwon",
+  "version": "0.0.0",
+  "author": "Jiwon Choi <devjiwonchoi@gmail.com>"
+}
